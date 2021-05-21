@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1618445676 source:c:\users\sabri\onedrive\Área de trabalho\figura\ic\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<windows.h>
+	<string>
+	<random>
+	<ostream>
+	<graphics.h>
+
+1618401740 source:c:\users\sabri\onedrive\Área de trabalho\untitled3.cpp
+	<graphics.h>
+
+1621583488 source:c:\users\sabri\onedrive\Área de trabalho\ic\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<windows.h>
+	<string>
+	<random>
+	<ostream>
+	<cwchar>
+	<graphics.h>
+	<map>
+
